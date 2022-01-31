@@ -15,7 +15,7 @@
     "start": "npm install --save-dev smee-client && probot run ./index.js"
   },
   "dependencies": {
-    "probot": "^12.2.0"
+    "probot": "^12.2.1"
   },
   "devDependencies": {
     "jest": "^27.4.7",
