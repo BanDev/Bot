@@ -20,7 +20,7 @@
   "devDependencies": {
     "jest": "^27.5.1",
     "nock": "^13.2.4",
-    "smee-client": "^1.2.2"
+    "smee-client": "^1.2.3"
   },
   "engines": {
     "node": ">= 10.13.0"
